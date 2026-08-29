@@ -5,46 +5,46 @@
   },
   "weather": [
     {
-      "id": 502,
+      "id": 500,
       "main": "Rain",
-      "description": "heavy intensity rain",
-      "icon": "10d"
+      "description": "light rain",
+      "icon": "10n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 15.31,
-    "feels_like": 15.32,
-    "temp_min": 12.18,
-    "temp_max": 15.31,
-    "pressure": 1010,
-    "humidity": 93,
-    "sea_level": 1010,
-    "grnd_level": 985
+    "temp": 14.2,
+    "feels_like": 14.16,
+    "temp_min": 11.63,
+    "temp_max": 14.2,
+    "pressure": 1001,
+    "humidity": 95,
+    "sea_level": 1001,
+    "grnd_level": 978
   },
-  "visibility": 7065,
+  "visibility": 9705,
   "wind": {
-    "speed": 1.38,
-    "deg": 115,
-    "gust": 6.96
+    "speed": 1.04,
+    "deg": 66,
+    "gust": 3.55
   },
   "rain": {
-    "1h": 4.73
+    "1h": 0.11
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1787940966,
+  "dt": 1787971443,
   "sys": {
     "type": 2,
     "id": 2094972,
     "country": "NO",
-    "sunrise": 1787889748,
-    "sunset": 1787942078
+    "sunrise": 1787976289,
+    "sunset": 1788028300
   },
   "timezone": 7200,
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-08-28T18:16:30.048Z"
+  "_last_updated_utc": "2026-08-29T02:44:03.309Z"
 }
