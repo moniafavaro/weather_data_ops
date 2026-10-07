@@ -5,36 +5,36 @@
   },
   "weather": [
     {
-      "id": 802,
+      "id": 804,
       "main": "Clouds",
-      "description": "scattered clouds",
-      "icon": "03n"
+      "description": "overcast clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 3.16,
-    "feels_like": 3.16,
-    "temp_min": 2.36,
-    "temp_max": 3.29,
-    "pressure": 1014,
-    "humidity": 77,
-    "sea_level": 1014,
+    "temp": 13.92,
+    "feels_like": 12.93,
+    "temp_min": 13.87,
+    "temp_max": 15.14,
+    "pressure": 1013,
+    "humidity": 60,
+    "sea_level": 1013,
     "grnd_level": 995
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.61,
-    "deg": 339,
-    "gust": 1.55
+    "speed": 1.41,
+    "deg": 172,
+    "gust": 4.07
   },
   "clouds": {
-    "all": 25
+    "all": 100
   },
-  "dt": 1791348100,
+  "dt": 1791377026,
   "sys": {
     "type": 2,
-    "id": 2094972,
+    "id": 46775,
     "country": "NO",
     "sunrise": 1791351360,
     "sunset": 1791390813
@@ -43,5 +43,5 @@
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-10-07T04:41:40.372Z"
+  "_last_updated_utc": "2026-10-07T12:46:50.403Z"
 }
