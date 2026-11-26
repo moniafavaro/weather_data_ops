@@ -8,31 +8,33 @@
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01n"
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": -9.38,
-    "feels_like": -12.6,
-    "temp_min": -9.38,
-    "temp_max": -9.38,
+    "temp": -6.12,
+    "feels_like": -6.12,
+    "temp_min": -6.53,
+    "temp_max": -5.6,
     "pressure": 1030,
-    "humidity": 86,
+    "humidity": 67,
     "sea_level": 1030,
-    "grnd_level": 1011
+    "grnd_level": 1012
   },
-  "visibility": 10000,
+  "visibility": 2915,
   "wind": {
-    "speed": 1.57,
-    "deg": 349,
-    "gust": 3.42
+    "speed": 1.27,
+    "deg": 27,
+    "gust": 2.73
   },
   "clouds": {
-    "all": 10
+    "all": 5
   },
-  "dt": 1795665183,
+  "dt": 1795700348,
   "sys": {
+    "type": 2,
+    "id": 46775,
     "country": "NO",
     "sunrise": 1795678815,
     "sunset": 1795703318
@@ -41,5 +43,5 @@
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-11-26T03:58:13.498Z"
+  "_last_updated_utc": "2026-11-26T13:44:09.793Z"
 }
